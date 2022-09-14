@@ -1,0 +1,363 @@
+{
+  "type": "AirportsCollection",
+  "airports": [
+    {
+      "text": "HB",
+      "size": 1.0,
+      "country": "USA",
+      "city": "Hogansburg ",
+      "lat": "44.9743028",
+      "lng": "-74.6667878",
+      "arcAlt": "0.3",
+      "pointColor": "rgb(27, 242, 163, 0.1)"
+    },
+    {
+      "text": "NB",
+      "size": 1.0,
+      "country": "USA",
+      "city": "Newport Beach",
+      "lat": "33.6189101",
+      "lng": "-117.9289469",
+      "arcAlt": "0.4",
+      "pointColor": "#F25252"
+    },
+    {
+      "text": "TC",
+      "size": 1.0,
+      "country": "USA",
+      "city": "Travis County ",
+      "lat": "30.209702",
+      "lng": "-97.698227",
+      "arcAlt": "0.5"
+    },
+    {
+      "text": "MC",
+      "size": 1.0,
+      "country": "GB",
+      "city": "Manchester",
+      "lat": "53.4807593",
+      "lng": "-2.2426305",
+      "arcAlt": "0.2"
+    },
+    {
+      "text": "BK",
+      "size": 1.0,
+      "country": "AL",
+      "city": "Bashkia Kruje",
+      "lat": "41.510439",
+      "lng": "19.792041"
+    },
+    {
+      "text": "UO",
+      "size": 1.0,
+      "country": "US",
+      "city": "Uniondale ",
+      "lat": "40.700379",
+      "lng": "-73.592906"
+    },
+    {
+      "text": "DV",
+      "size": 1.0,
+      "country": "GB",
+      "city": "Davie",
+      "lat": "26.076478",
+      "lng": "-80.252116"
+    },
+    {
+      "text": "QU",
+      "size": 1.0,
+      "country": "US",
+      "city": "Queens",
+      "lat": "40.728224",
+      "lng": "-73.794852"
+    },
+    {
+      "text": "RS",
+      "size": 1.0,
+      "country": "US",
+      "city": "Riverside County",
+      "lat": "33.953297",
+      "lng": "-117.396119"
+    },
+    {
+      "text": "MC",
+      "size": 1.0,
+      "country": "US",
+      "city": "Monterey County",
+      "lat": "36.313620",
+      "lng": "-121.354163"
+    },
+    {
+      "text": "PH",
+      "size": 1.0,
+      "country": "US",
+      "city": "Phoenix",
+      "lat": "33.448377",
+      "lng": "-112.074037"
+    },
+    {
+      "text": "TU",
+      "size": 1.0,
+      "country": "US",
+      "city": "Tulalip",
+      "lat": "48.065257",
+      "lng": "-122.281322"
+    },
+    {
+      "text": "MV",
+      "size": 1.0,
+      "country": "US",
+      "city": "Mill Valley",
+      "lat": "37.906037",
+      "lng": "-122.544976"
+    },
+    {
+      "text": "CC",
+      "size": 1.0,
+      "country": "US",
+      "city": "Crawford County",
+      "lat": "35.576276",
+      "lng": "-94.315422"
+    },
+    {
+      "text": "YR",
+      "size": 1.0,
+      "country": "CA",
+      "city": "York",
+      "lat": "53.959965",
+      "lng": "-1.087298"
+    },
+    {
+      "text": "MP",
+      "size": 1.0,
+      "country": "AU",
+      "city": "Macquarie Park",
+      "lat": "-33.781047",
+      "lng": "151.122968"
+    },
+    {
+      "text": "MI",
+      "size": 1.0,
+      "country": "IT",
+      "city": "Milan",
+      "lat": "45.465422",
+      "lng": "9.185924"
+    },
+    {
+      "text": "DA",
+      "size": 1.0,
+      "country": "FR",
+      "city": "Departement de l'Ain",
+      "lat": "46.247571",
+      "lng": "5.130768"
+    },
+    {
+      "text": "PC",
+      "size": 1.0,
+      "country": "US",
+      "city": "Philadelphia County",
+      "lat": "39.952584",
+      "lng": "-75.165222"
+    },
+    {
+      "text": "MC",
+      "size": 1.0,
+      "country": "MX",
+      "city": "Mexico City ",
+      "lat": "19.432608",
+      "lng": "-99.133208"
+    },
+    {
+      "text": "MA",
+      "size": 1.0,
+      "country": "PH",
+      "city": "Makati",
+      "lat": "14.554729",
+      "lng": "121.024445"
+    },
+    {
+      "text": "TC",
+      "size": 1.0,
+      "country": "US",
+      "city": "Taylor County",
+      "lat": "32.245509",
+      "lng": "-99.812494"
+    },
+    {
+      "text": "CC",
+      "size": 1.0,
+      "country": "US",
+      "city": "Colusa County",
+      "lat": "39.104064",
+      "lng": "-122.265389"
+    },
+    {
+      "text": "KR",
+      "size": 1.0,
+      "country": "IN",
+      "city": "Khordha",
+      "lat": "20.186258",
+      "lng": "85.622274"
+    },
+    {
+      "text": "SP",
+      "size": 1.0,
+      "country": "BR",
+      "city": "Sao Paulo",
+      "lat": "20.186258",
+      "lng": "85.622274"
+    },
+    {
+      "text": "BR",
+      "size": 1.0,
+      "country": "US",
+      "city": "Birmingham",
+      "lat": "33.520661",
+      "lng": "-86.802490"
+    },
+    {
+      "text": "SLC",
+      "size": 1.0,
+      "country": "US",
+      "city": "Salt Lake City",
+      "lat": "40.760779",
+      "lng": "-111.891047"
+    },
+    {
+      "text": "PA",
+      "size": 1.0,
+      "country": "BR",
+      "city": "Porto Alegres",
+      "lat": "-30.036818",
+      "lng": "-51.208989"
+    },
+    {
+      "text": "CC",
+      "size": 1.0,
+      "country": "US",
+      "city": "Cherokee County",
+      "lat": "34.251453",
+      "lng": "-84.480261"
+    },
+    {
+      "text": "IR",
+      "size": 1.0,
+      "country": "US",
+      "city": "Irving",
+      "lat": "32.814018",
+      "lng": "-96.948894"
+    },
+    {
+      "text": "PL",
+      "size": 1.0,
+      "country": "US",
+      "city": "Plano",
+      "lat": "33.019843",
+      "lng": "-96.698886"
+    },
+    {
+      "text": "LB",
+      "size": 1.0,
+      "country": "US",
+      "city": "Long Beach",
+      "lat": "33.770050",
+      "lng": "-118.193740"
+    },
+    {
+      "text": "PR",
+      "size": 1.0,
+      "country": "CZ",
+      "city": "Prague",
+      "lat": "50.075538",
+      "lng": "14.437800"
+    },
+    {
+      "text": "BD",
+      "size": 1.0,
+      "country": "PK",
+      "city": "Bagh District",
+      "lat": "33.998050",
+      "lng": "73.794852"
+    },
+    {
+      "text": "HK",
+      "size": 1.0,
+      "country": "US",
+      "city": "Hickory",
+      "lat": "35.734454",
+      "lng": "-81.344457"
+    },
+    {
+      "text": "OC",
+      "size": 1.0,
+      "country": "CA",
+      "city": "Oxford County",
+      "lat": "44.490690",
+      "lng": "-70.784056"
+    },
+    {
+      "text": "PDB",
+      "size": 1.0,
+      "country": "ES",
+      "city": "Provincia de Barcelona",
+      "lat": "41.385048",
+      "lng": "2.173313"
+    },
+    {
+      "text": "ST",
+      "size": 1.0,
+      "country": "SE",
+      "city": "Stockholm",
+      "lat": "59.329324",
+      "lng": "18.068581"
+    },
+    {
+      "text": "TC",
+      "size": 1.0,
+      "country": "US",
+      "city": "Lake County",
+      "lat": "42.368936",
+      "lng": "-112.097443"
+    },
+    {
+      "text": "PDB",
+      "size": 1.0,
+      "country": "ES",
+      "city": "Provincia de Barcelona",
+      "lat": "41.385048",
+      "lng": "2.173313"
+    },
+    {
+      "text": "CH",
+      "size": 1.0,
+      "country": "US",
+      "city": "Chicago",
+      "lat": "41.878114",
+      "lng": "-87.629798"
+    },
+    {
+      "text": "PP",
+      "size": 1.0,
+      "country": "KH",
+      "city": "Phnom Penh",
+      "lat": "11.544873",
+      "lng": "104.892167"
+    },
+    {
+      "text": "DSS",
+      "size": 1.0,
+      "country": "SV",
+      "city": "Distrito de San Salvador",
+      "lat": "-13.493281",
+      "lng": "-71.784489"
+    },
+    {
+      "text": "OC",
+      "size": 1.0,
+      "country": "US",
+      "city": "Orange County",
+      "lat": "33.717471",
+      "lng": "-117.831143"
+    }
+  ]
+}

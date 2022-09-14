@@ -1,0 +1,84 @@
+{
+  "type": "Inventory",
+  "inventoryPoints": [
+    {
+      "order": 3,
+      "text": "TN",
+      "size": 1.0,
+      "country": "USA",
+      "city": "Tennessee ",
+      "lat": "35.860119",
+      "lng": "-86.660156",
+      "pointColor": "rgba(71, 234, 226, 1)"
+    },
+
+    {
+      "text": "CN",
+      "size": 1.0,
+      "country": "China",
+      "city": "Beijing ",
+      "lat": "39.916668",
+      "lng": "116.383331",
+      "pointColor": "rgba(242, 82, 82, 1)"
+    },
+    {
+      "text": "JP",
+      "size": 1.0,
+      "country": "Japan",
+      "city": "Tokyo ",
+      "lat": "35.652832",
+      "lng": "139.839478",
+      "pointColor": "rgba(242, 82, 82, 1)"
+    },
+    {
+      "order": 3,
+      "text": "TN",
+      "size": 1.0,
+      "country": "Canada",
+      "city": "Calgary",
+      "lat": "51.0460954",
+      "lng": "-114.065465",
+      "pointColor": "rgba(71, 234, 226, 1)"
+    },
+    {
+      "order": 3,
+      "text": "TN",
+      "size": 1.0,
+      "country": "Finland",
+      "city": "Kajaani",
+      "lat": "64.2240872",
+      "lng": "27.7334227",
+      "pointColor": "rgba(71, 234, 226, 1)"
+    },
+    {
+      "order": 3,
+      "text": "TN",
+      "size": 1.0,
+      "country": "Brazil",
+      "city": "Kadiweu",
+      "lat": "-20.4531119",
+      "lng": "-54.5939939",
+      "pointColor": "rgba(71, 234, 226, 1)"
+    },
+    {
+      "order": 3,
+      "text": "CA",
+      "size": 1.0,
+      "country": "Canada",
+      "city": "Vancouver",
+      "lat": "39.742043",
+      "lng": "-104.991531",
+      "pointColor": "rgba(242, 82, 82, 1)"
+    },
+    {
+      "order": 3,
+      "text": "CA",
+      "size": 1.0,
+      "country": "Canada",
+      "city": "Tadoule Lake",
+      "lat": "58.5820355",
+      "lng": "-98.3611965",
+      "pointColor": "rgba(71, 234, 226, 1)"
+    }
+  ]
+}

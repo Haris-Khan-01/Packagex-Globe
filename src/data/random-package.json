@@ -1,0 +1,47 @@
+{
+  "type": "FlightsCollection",
+  "packages": [
+    {
+      "type": "flight",
+      "order": 0,
+      "from": "US",
+      "to": "US",
+      "flightCode": "HY 778",
+      "date": "Feb 14, 2019",
+      "status": true,
+      "startLat": -13.493281,
+      "startLng": -71.784489,
+      "endLat": 26.076478,
+      "endLng": -80.252116,
+      "arcAlt": 0.3,
+      "arcPrimaryColor": "#FFFFFF",
+      "arcSecondaryColor": "#7420E2 ",
+      "arcSupportingColor": "#7420E2 ",
+      "arcStroke": 1,
+      "arcLength": 1,
+      "arcsTransitionDuration": 1000,
+      "arcDashAnimateTime": 1000
+    },
+    {
+      "type": "flight",
+      "order": 1.5,
+      "from": "US",
+      "to": "US",
+      "flightCode": "HY 778",
+      "date": "Feb 14, 2019",
+      "status": true,
+      "startLat": 26.076478,
+      "startLng": -80.252116,
+      "endLat": 35.734454,
+      "endLng": -81.344457,
+      "arcAlt": 0.08,
+      "arcPrimaryColor": "#7420E2",
+      "arcSecondaryColor": "#7420E2",
+      "arcSupportingColor": "#7420E2",
+      "arcStroke": 0.44,
+      "arcLength": 0.8,
+      "arcsTransitionDuration": 2000,
+      "arcDashAnimateTime": 2000
+    }
+  ]
+}
